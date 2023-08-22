@@ -1,9 +1,9 @@
 [
   {
     "full_name": "TanStack/router",
-    "stargazers_count": 5030,
-    "open_issues_count": 8,
-    "forks_count": 269
+    "stargazers_count": 5049,
+    "open_issues_count": 13,
+    "forks_count": 273
   },
   {
     "full_name": "digidem/mapeo-mobile",
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "digidem/mapeo-desktop",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 74,
     "forks_count": 34
   },
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "t3-oss/create-t3-app",
-    "stargazers_count": 19086,
-    "open_issues_count": 36,
-    "forks_count": 822
+    "stargazers_count": 19135,
+    "open_issues_count": 37,
+    "forks_count": 826
   },
   {
     "full_name": "vasanthk/react-bits",
-    "stargazers_count": 15665,
+    "stargazers_count": 15668,
     "open_issues_count": 9,
     "forks_count": 1098
   },
   {
     "full_name": "open-sauced/hot",
     "stargazers_count": 327,
-    "open_issues_count": 32,
-    "forks_count": 112
+    "open_issues_count": 33,
+    "forks_count": 111
   },
   {
     "full_name": "open-sauced/open-sauced",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 37091,
-    "open_issues_count": 89,
-    "forks_count": 63784
+    "stargazers_count": 37162,
+    "open_issues_count": 116,
+    "forks_count": 63955
   },
   {
     "full_name": "hibiken/react-places-autocomplete",
